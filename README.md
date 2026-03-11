@@ -6,34 +6,19 @@ Me chamo Manuella do Nascimento, tenho 19 anos e sou de Santo Amaro, São Paulo.
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/manuella-nascimento-a684a42b8/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
-        />
-    </a>
-    <a href="mailto:nascimentosamanuella@gmail.com">
-    <img 
-        alt="Gmail" 
-        title="Me envie um email pelo Gmail" 
-        src="https://custom-icon-badges.demolab.com/badge/Gmail-Enviar%20Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge"
-    />
+
+<a href="https://www.linkedin.com/in/manuella-nascimento-a684a42b8/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-    <a href="https://github.com/NascManuella?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/NascManuella?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/NascManuella?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/NascManuella?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+
+<a href="mailto:nascimentosamanuella@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NascManuella?tab=followers">
+<img src="https://img.shields.io/github/followers/NascManuella?label=Follow&style=for-the-badge"/>
+</a>
+
 </p>
 
 ### 🤖 Linguagens e Tecnologias
